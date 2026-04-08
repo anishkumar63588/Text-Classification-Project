@@ -63,10 +63,7 @@ Text_Classification_Project/
 
 - **Complete ML Pipeline:** Data loading → EDA → Preprocessing → Training → Evaluation
 - **Well-Documented Code:** Every cell has comments explaining its purpose
-- **Model Optimization:** Tuned parameters to balance accuracy and generalization
 - **Performance Metrics:** Comprehensive evaluation with multiple metrics
-- **Real-world Testing:** Example predictions with interpretation
-- **Reproducible Results:** Fixed random seed for consistency
 
 ## Model Parameters
 
